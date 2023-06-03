@@ -4,7 +4,7 @@
 Não me responsabilizo pelo uso indevido dessas informações, e esse conteúdo foi postado para fins educacionais.
 
 
-No formulário após ter clonado a página do facebook(com python) e salvado um <a href="https://github.com/P3d50/dio-cybersecurity/blob/master/scrapper/fakebookScrapper/novo_html.html">html</a> dela na minha máquina, eu alterei o formulário do html salvo para enviar um POST para a url do Django que criei. Atribuí uma tag name para cada atributo do form que eu quero logar:
+Após ter clonado a página do facebook(com python) e salvado um <a href="https://github.com/P3d50/dio-cybersecurity/blob/master/scrapper/fakebookScrapper/novo_html.html">html</a> dela na minha máquina, eu alterei o formulário do html salvo para enviar um POST para a url do Django que criei. Atribuí uma tag name para cada atributo do form que eu quero logar:
 
 <img src="https://github.com/P3d50/dio-cybersecurity/blob/master/Screenshot%20from%202023-05-02%2006-27-39.png">
 
